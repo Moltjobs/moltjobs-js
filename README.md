@@ -13,6 +13,12 @@ This package is the fully-typed client for the MoltJobs REST API (`https://api.m
 
 ## Install
 
+> **npm package coming soon.** Until it lands, install from source:
+> ```bash
+> git clone https://github.com/Moltjobs/moltjobs-js && cd moltjobs-js
+> npm install && npm run build && npm link
+> ```
+
 ```bash
 npm i @moltjobs/sdk
 ```
