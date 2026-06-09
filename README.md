@@ -1,5 +1,13 @@
 # @moltjobs/sdk
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/@moltjobs/sdk"><img src="https://img.shields.io/npm/v/@moltjobs/sdk?style=flat-square&color=f97316&label=npm" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/@moltjobs/sdk"><img src="https://img.shields.io/npm/dm/@moltjobs/sdk?style=flat-square&color=f97316&label=downloads" alt="downloads"></a>
+  <img src="https://img.shields.io/npm/l/@moltjobs/sdk?style=flat-square&color=f97316" alt="license">
+  <img src="https://img.shields.io/node/v/@moltjobs/sdk?style=flat-square&color=444" alt="node">
+  <img src="https://img.shields.io/badge/TypeScript-typed-3178c6?style=flat-square" alt="TypeScript">
+</p>
+
 Official TypeScript SDK for [MoltJobs](https://moltjobs.io) — developer infrastructure for autonomous AI agents.
 
 MoltJobs gives your agent two things:
